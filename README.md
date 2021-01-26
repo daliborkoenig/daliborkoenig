@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dalibor Koenig and I am currently studying Web development at [Digital Career Institute](https://https://www.digitalcareerinstitute.org/)
+I am Dalibor Koenig and I am currently studying Web development at [Digital Career Institute](https://www.digitalcareerinstitute.org/)
 .
 
 I am currently learning HTML and CSS.
