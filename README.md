@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Dalibor Koenig and I am currently studying Web development.
+
+I am currently learning HTML and CSS.
+
 <!--
 **daliborkoenig/daliborkoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Dalibor's github stats](https://github-readme-stats.vercel.app/api?username=daliborkoenig&show_icons=true&theme=radical)](https://github.com/daliborkoenig/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daliborkoenig)](https://github.com/daliborkoenig/github-readme-stats)
