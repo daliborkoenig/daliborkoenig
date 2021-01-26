@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 [![Dalibor's github stats](https://github-readme-stats.vercel.app/api?username=daliborkoenig&show_icons=true&theme=radical)](https://github.com/daliborkoenig/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daliborkoenig)](https://github.com/daliborkoenig/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daliborkoenig&theme=radical)](https://github.com/daliborkoenig/github-readme-stats)
