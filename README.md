@@ -3,7 +3,11 @@
 I am Dalibor Koenig and I am currently studying Web development at [Digital Career Institute](https://www.digitalcareerinstitute.org/)
 .
 
-I am currently learning HTML and CSS.
+Working in:
+HTML
+CSS
+BOOTSTRAP
+SAAS
 
 <!--
 **daliborkoenig/daliborkoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
