@@ -3,7 +3,9 @@
 I am Dalibor Koenig and I am currently studying Web development at [Digital Career Institute](https://www.digitalcareerinstitute.org/)
 .
 
-Working in:
+Currently learning HTML, CSS and Javascript.
+
+Working with:
 HTML
 CSS
 BOOTSTRAP
