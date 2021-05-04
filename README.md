@@ -8,8 +8,7 @@ Currently learning HTML, CSS and Javascript.
 Working with:
 HTML
 CSS
-BOOTSTRAP
-SASS
+javascript
 
 <!--
 **daliborkoenig/daliborkoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
