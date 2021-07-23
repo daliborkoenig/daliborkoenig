@@ -6,11 +6,11 @@ I am Dalibor Koenig and I am currently studying Web development at [Digital Care
 Currently learning HTML, CSS and Javascript.
 
 Working with:
-HTML
-Bootstrap
-CSS
-sass
-javascript
+HTML,
+Bootstrap,
+CSS,
+sass,
+javascript,
 React
 
 <!--
